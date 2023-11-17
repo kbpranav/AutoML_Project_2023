@@ -1,4 +1,3 @@
-# AutoML lecture 2023 (Freiburg & Hanover)
 ## Final Project
 
 This repository contains all things needed for the final projects.
